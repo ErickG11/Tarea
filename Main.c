@@ -27,6 +27,5 @@ int main(){
     }
     fclose(archivo);
     fclose(archivo2);
-
      return 0;
 }
