@@ -22,7 +22,7 @@ int main(){
         fprintf(archivo,"modulo de 3");
     }
     else{
-        fprintf(archivo2,"%d\n",num);
+        fprintf(archivo2,"%d\n",&num);
     }
     }
     fclose(archivo);
